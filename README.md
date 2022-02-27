@@ -1,7 +1,7 @@
 # 后台管理平台 Node 部分 
 
 项目采用 TypeScript + Koa 为主要技术栈，运行在[轻服务云工程](https://qingfuwu.cn/docs/cloud-project/quickstart.html)中。
-
+项目访问地址 https://ky-admin.app.cloudendpoint.cn/
 
 ## 本地安装
 
